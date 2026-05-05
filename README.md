@@ -16,8 +16,7 @@ It represents my journey as a student, highlighting my learning in web developme
 
 ## 🌍 Live Website
 
-👉 (Add your GitHub Pages link here after hosting)
-
+👉  https://sivapriyakoppakaa.github.io/Portfolio/
 ## 📌 Purpose
 
 This portfolio is created as part of my learning journey and to present my work during internships and placements.
